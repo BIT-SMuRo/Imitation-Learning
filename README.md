@@ -16,5 +16,7 @@ The code has been tested in Ubuntu 20.04.
   - `__init__.py`
   - `demonstrationdata.py` ->
   - `imitationdata.py` ->
+- `examples`
+  - `getOutline.py` ->
 - `utils`
   - `getOutline.py` -> Calculate the forward kinematics of robots
