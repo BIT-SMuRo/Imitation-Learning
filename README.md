@@ -9,11 +9,11 @@ The code has been tested in Ubuntu 20.04.
 
 ## Description
 - `models`
-  - `__init__.py` ->
+  - `__init__.py`
   - `behaviorcost.py` ->
   - `policynet.py` ->
 - `dataset`
-  - `__init__.py` ->
+  - `__init__.py`
   - `demonstrationdata.py` ->
   - `imitationdata.py` ->
 - `utils`
