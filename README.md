@@ -1,6 +1,4 @@
 ## Important Note
 
-## Install dependencies
+## Dependencies
 The code has been tested in Ubuntu 20.04.
-
-## Run trained policies
