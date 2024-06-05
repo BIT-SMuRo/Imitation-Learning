@@ -1,6 +1,3 @@
-## Important Note
-For reproducibility in physical environment, as the joint data is linked to robot system, it is not possible to run it as it is.
-
 ## Dependencies
 The code has been tested in Ubuntu 20.04.
 1. torch	2.0.1	
