@@ -12,6 +12,9 @@ The code has been tested in Ubuntu 20.04.
   - `data_init.csv` -> Initial data for policy network training
   - `demonstrationdata.py` -> Dataloader for pre-training
   - `imitationdata.py` -> Dataloader for policy network training
+- `demo`
+  - `demo_demonstration.png` -> Demonstration data images
+  - `policy_test.csv` -> Generated robot behavior data
 - `models`
   - `__init__.py`
   - `behaviorcost.py` ->
