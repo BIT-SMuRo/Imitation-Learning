@@ -8,5 +8,5 @@ The code has been tested in Ubuntu 20.04.
 6. transforms3d 0.4.1
 
 ## Description
-- `replayBuffer.py`
-  - `replayBuffer.py` -> replay buffer implementation
+- `utils`
+  - `getOutline.py` -> Calculate the forward kinematics of robots
