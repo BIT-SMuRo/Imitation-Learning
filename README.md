@@ -8,14 +8,14 @@ The code has been tested in Ubuntu 20.04.
 6. transforms3d 0.4.1
 
 ## Description
+- `dataset`
+  - `data_init.csv` -> Initial data for policy network training
+  - `demonstrationdata.py` -> Dataloader for pre-training
+  - `imitationdata.py` -> Dataloader for policy network training
 - `models`
   - `__init__.py`
   - `behaviorcost.py` ->
   - `policynet.py` ->
-- `dataset`
-  - `__init__.py`
-  - `demonstrationdata.py` ->
-  - `imitationdata.py` ->
 - `examples`
   - `getOutline.py` ->
 - `utils`
