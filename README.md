@@ -1,5 +1,5 @@
 ## Important Note
-For reproducibility in physical environment, as the joint data is linked to imaging system and Electromagnetic actuation system, it is not possible to run it as it is.
+For reproducibility in physical environment, as the joint data is linked to robot system, it is not possible to run it as it is.
 
 ## Dependencies
 The code has been tested in Ubuntu 20.04.
