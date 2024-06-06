@@ -1,3 +1,5 @@
+<img src=demo\policy_test.gif width=100% />
+
 ## Dependencies
 The code has been tested in Ubuntu 20.04.
 -  torch	1.10.0	
