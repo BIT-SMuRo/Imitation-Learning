@@ -1,3 +1,5 @@
+This repository is a basic implement of the imitation learning algorithm.
+
 <img src=demo\policy_test.gif width=100% />
 
 ## Dependencies
