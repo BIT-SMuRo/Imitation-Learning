@@ -1,4 +1,4 @@
-This repository is a basic implement of the imitation learning algorithm. We provide a sample data for testing.
+This repository is a basic implement of the imitation learning algorithm. We provide a example data for testing.
 
 <img src=demo\policy_test.gif width=100% />
 
