@@ -22,3 +22,4 @@ The code has been tested in Ubuntu 20.04.
 - `utils`
   - `getOutline.py` -> Calculate the forward kinematics of robots
   - `show_outline_single_fig.py` -> Displays the trajectory of the generated data
+- `train_policy.py` -> Training policy network
