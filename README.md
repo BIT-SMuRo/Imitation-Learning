@@ -16,10 +16,9 @@ The code has been tested in Ubuntu 20.04.
   - `demo_demonstration.png` -> Demonstration data images
   - `policy_test.csv` -> Generated robot behavior data
 - `models`
-  - `__init__.py`
-  - `behaviorcost.py` ->
-  - `policynet.py` ->
-- `examples`
-  - `getOutline.py` ->
+  - `behaviorcost.py` -> Pre-training network models
+  - `policynet.py` -> Policy network model
+- `param` -> Model parameter files
 - `utils`
   - `getOutline.py` -> Calculate the forward kinematics of robots
+  - `show_outline_single_fig.py` -> Displays the trajectory of the generated data
