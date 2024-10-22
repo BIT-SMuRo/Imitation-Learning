@@ -13,7 +13,7 @@ The code has been tested in Ubuntu 20.04.
 
 ## Description
 - `dataset`
-  - `behavior dataset` -> Behavior dataset
+  - `behavior dataset` -> Behavior dataset corresponding to robot joints
   - `templates of social behavior` -> Templates of social behavior data for robot
   - `data_init.csv` -> Initial example data for policy network training
   - `demonstrationdata.py` -> Dataloader for pre-training
