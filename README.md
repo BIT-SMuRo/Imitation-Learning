@@ -14,12 +14,12 @@ The code has been tested in Ubuntu 20.04.
 ## Description
 - `dataset`
   - `templates of social behavior` -> Four types of templates of social behavior data for robot
-  - `data_init.csv` -> Initial data for policy network training
+  - `data_init.csv` -> Initial example data for policy network training
   - `demonstrationdata.py` -> Dataloader for pre-training
   - `imitationdata.py` -> Dataloader for policy network training
 - `demo`
   - `demo_demonstration.png` -> Demonstration data images
-  - `policy_test.csv` -> Generated robot behavior data
+  - `policy_test.csv` -> Generated example  robot behavior data
 - `models`
   - `behaviorcost.py` -> Pre-training network models
   - `policynet.py` -> Policy network model
