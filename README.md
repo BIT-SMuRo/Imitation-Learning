@@ -13,6 +13,7 @@ The code has been tested in Ubuntu 20.04.
 
 ## Description
 - `dataset`
+  - `templates of social behavior` -> Four types of emplates of social behavior data for robot
   - `data_init.csv` -> Initial data for policy network training
   - `demonstrationdata.py` -> Dataloader for pre-training
   - `imitationdata.py` -> Dataloader for policy network training
